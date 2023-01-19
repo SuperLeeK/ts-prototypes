@@ -1,0 +1,7 @@
+node_modules
+/lib
+/coverage
+./index.js
+__tests__
+_test.md
+todo.md
