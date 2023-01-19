@@ -1,2 +1,7 @@
 node_modules
 tsconfig.json
+/coverage
+todo.md
+_test.md
+__test__
+./index.js
