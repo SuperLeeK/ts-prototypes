@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SuperLeeK/prototypes.git"
+    "url": "git+https://github.com/SuperLeeK/ts-prototypes.git"
   },
   "files": [
     "lib/**/*"
@@ -30,9 +30,9 @@
   "author": "superleek",
   "license": "none",
   "bugs": {
-    "url": "https://github.com/SuperLeeK/prototypes/issues"
+    "url": "https://github.com/SuperLeeK/ts-prototypes/issues"
   },
-  "homepage": "https://github.com/SuperLeeK/prototypes#readme",
+  "homepage": "https://github.com/SuperLeeK/ts-prototypes#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/jest": "^29.2.2",
